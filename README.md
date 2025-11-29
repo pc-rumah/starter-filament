@@ -4,4 +4,4 @@
 4. buat user = php artisan make:filament-user
 5. plugin footer ✅
 6. breezy ✅ = php artisan storage:link dan app_url arahkan ke url web
-7. 
+7. setup shield php artisan shield:publish admin, php artisan shield:generate --all
