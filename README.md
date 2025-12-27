@@ -6,3 +6,4 @@
 6. breezy ✅ = php artisan storage:link dan app_url arahkan ke url web
 7. setup shield = php artisan shield:publish admin, php artisan shield:generate --all
 8. custom theme
+9. jalankan php artisan filament:optimize
